@@ -20415,7 +20415,7 @@ label.ant-checkbox-wrapper > span {
   padding: 5rem 0;
   font-size: 1.5rem;
   text-align: center;
-  color: #606060 !important;
+  color: #adadad !important;
   background-color: #191a1f !important;
 }
 
@@ -21122,12 +21122,12 @@ label.ant-checkbox-wrapper > span {
 
 .midnightTheme .menu-group.primary li > a,
 .midnightTheme .menu-group.primary .menu-bar li > a {
-  color: #606060;
+  color: #adadad;
 }
 
 .midnightTheme .menu-group.primary li > a .icon > svg > path,
 .midnightTheme .menu-group.primary .menu-bar li > a .icon > svg > path {
-  fill: #606060;
+  fill: #adadad;
 }
 
 .midnightTheme .menu-group.primary li > a:hover,
@@ -21650,7 +21650,7 @@ label.ant-checkbox-wrapper > span {
 }
 
 .midnightTheme ul.account-overview li > a {
-  color: #606060;
+  color: #adadad;
   background-color: transparent;
   border: none;
   transition: all 0.3s ease 0s;
@@ -21678,7 +21678,7 @@ label.ant-checkbox-wrapper > span {
 }
 
 .midnightTheme ul.account-overview li.total-value > a:hover > span.tab-title {
-  color: #606060;
+  color: #adadad;
 }
 
 .midnightTheme ul.account-overview li.total-value .icon.locked > svg > path {
