@@ -14020,7 +14020,7 @@ label.ant-checkbox-wrapper > span {
 
 .header-container .menu-dropdown-wrapper .hamburger .icon {
   position: relative;
-  top: 12px;
+  top: 14px;
 }
 
 .header-container .dropdown.header-menu {
@@ -14703,6 +14703,14 @@ label.ant-checkbox-wrapper > span {
 }
 
 .darkTheme .header-container span.icon.lock-unlock > svg > path {
+  fill: #049cce;
+}
+
+.darkTheme .header-container span.icon.sun > svg > path {
+  fill: #049cce;
+}
+
+.darkTheme .header-container span.icon.moon > svg > path {
   fill: #049cce;
 }
 
@@ -16820,7 +16828,7 @@ label.ant-checkbox-wrapper > span {
 
 .header-container .menu-dropdown-wrapper .hamburger .icon {
   position: relative;
-  top: 12px;
+  top: 14px;
 }
 
 .header-container .dropdown.header-menu {
@@ -17503,6 +17511,14 @@ label.ant-checkbox-wrapper > span {
 }
 
 .lightTheme .header-container span.icon.lock-unlock > svg > path {
+  fill: #2196f3;
+}
+
+.lightTheme .header-container span.icon.sun > svg > path {
+  fill: #2196f3;
+}
+
+.lightTheme .header-container span.icon.moon > svg > path {
   fill: #2196f3;
 }
 
@@ -19624,7 +19640,7 @@ label.ant-checkbox-wrapper > span {
 
 .header-container .menu-dropdown-wrapper .hamburger .icon {
   position: relative;
-  top: 12px;
+  top: 14px;
 }
 
 .header-container .dropdown.header-menu {
@@ -20307,6 +20323,14 @@ label.ant-checkbox-wrapper > span {
 }
 
 .midnightTheme .header-container span.icon.lock-unlock > svg > path {
+  fill: #049cce;
+}
+
+.midnightTheme .header-container span.icon.sun > svg > path {
+  fill: #049cce;
+}
+
+.midnightTheme .header-container span.icon.moon > svg > path {
   fill: #049cce;
 }
 
